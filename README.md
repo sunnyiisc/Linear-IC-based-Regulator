@@ -36,3 +36,20 @@ The Circuit can be simulated with spice, here I used gEDA for building the ciruc
 #### Circuit Schematic for simulation
 
 ![Schematic](https://user-images.githubusercontent.com/47363228/167257020-6059cef5-e8f5-406c-8cfd-0b1a462f44f9.png)
+
+![image](https://user-images.githubusercontent.com/47363228/167257276-032623f8-1c7b-4508-9222-270962d6042c.png)
+
+
+#### Line Regulation
+Line regulation is performed by varying input voltage keeping the load resistance constant(100Ω). Input voltage is varied using an auto transformer. Input voltage is measured at the secondary side to maintain safety. The output voltage remains almost same around 10V. But when the input voltage variation is very high, then the regulator is no longer able to maintain the output voltage.
+
+| V<sub>in-rms</sub> (V) | V<sub>out</sub> (V) |
+| ---------------------- | ------------------- |
+| 14 | 10.1 |
+| 13 | 10.1 |
+| 12 | 10.1 |
+| 10 | 10.1 |
+| 9.5 | 9.64 |
+| 9 | 9.03 |
+| 8.5 | 8.44 |
+
