@@ -32,3 +32,7 @@ The Circuit can be simulated with spice, here I used gEDA for building the ciruc
 
 ---------------------------------------
 ### Final Design and Simulation Results
+
+#### Circuit Schematic for simulation
+
+![Schematic](https://user-images.githubusercontent.com/47363228/167257020-6059cef5-e8f5-406c-8cfd-0b1a462f44f9.png)
