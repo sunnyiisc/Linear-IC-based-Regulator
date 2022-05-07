@@ -33,4 +33,5 @@ The Circuit can be simulated with spice, here I used gEDA for building the ciruc
 ---------------------------------------
 ### Final Design and Simulation Results
 
-[embed]Report_Linear IC-based Regulator.pdf[/embed]
+
+
